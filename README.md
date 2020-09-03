@@ -2,12 +2,12 @@ Template Name: Restaurant
 
 # [The Estates](https://taneilasc4.github.io/TheEstates/)
 
-#[Author & acknowledgment]:
+# [Author & acknowledgment]:
  Taneil Knowles
 
  BootstrapMade.com
 
-#[License]: 
+# [License]: 
 
 Copyright (c) 1990-1999 Sleepycat Software. All rights reserved.
 
